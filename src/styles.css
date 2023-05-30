@@ -1,0 +1,12 @@
+:root {
+  --clr-beige: #fff9f4;
+  --clr-dark-purple: #3E2A35;
+  --clr-green: #6B8F71;
+  --clr-red: #F0386B;
+  --clr-blue: #7B8CDE;
+  --clr-orange: #FFBF81;
+}
+
+html {
+  background-color: var(--clr-beige);
+}
